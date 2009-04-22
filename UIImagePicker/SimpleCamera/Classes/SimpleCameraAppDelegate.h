@@ -1,0 +1,18 @@
+//
+//  SimpleCameraAppDelegate.h
+//  SimpleCamera
+//
+//  Created by ntaku on 09/04/22.
+//  Copyright http://d.hatena.ne.jp/ntaku 2009. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+@interface SimpleCameraAppDelegate : NSObject <UIApplicationDelegate> {
+    UIWindow *window;
+}
+
+@property (nonatomic, retain) IBOutlet UIWindow *window;
+
+@end
+
