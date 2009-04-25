@@ -1,0 +1,32 @@
+ここにあるコードは自由にご利用ください。
+外部ライブラリを含むものについては、そのライブラリのライセンスに準拠します。
+
+UIView
+  SimpleView		UIViewを生成して表示する
+  SimpleTouch		タッチイベントを取得する
+  SimpleGesture		スワイプジェスチャーを検出する
+
+UITableView
+  SimpleTableView	UITableViewを生成して表示する
+  SimpleTableView2	UINavigationControllerを利用したTableView
+  SimpleTableViewCell	UITableViewCellをカスタマイズする
+  TableViewEdit		UITableViewの編集を行う
+
+UITabBarController	
+  NavigationWithTabBar	UINavigationControllerを利用したUITabBarController
+  CustomizeTabBarImg	TabBarの背景画像を差し替える
+  SimpleTabBar		UITabBarControllerを生成して表示する
+
+UIImagePicker
+  SimpleCamera		カメラを利用する		
+
+CoreLocation
+  LocationTest		GPS測位を実施する
+
+SQLite
+  SQLiteTest		FMDBライブラリを使ってSQLiteを利用する
+
+Parser
+  JsonTest		JSONを解析する
+  Libxml2Test		libxml2でXPathを使ってXMLを解析する
+  NSXMLParserTest	NSXMLParserを使ってXMLを解析する
