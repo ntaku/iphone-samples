@@ -2,15 +2,15 @@
 {
 	1D3623240D0F684500981E51 /* NSXMLParserTestAppDelegate.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {625, 664}}";
+			sepNavIntBoundsRect = "{{0, 0}, {736, 783}}";
 			sepNavSelRange = "{424, 0}";
 			sepNavVisRange = "{0, 431}";
 		};
 	};
 	1D3623250D0F684500981E51 /* NSXMLParserTestAppDelegate.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {736, 924}}";
-			sepNavSelRange = "{333, 0}";
+			sepNavIntBoundsRect = "{{0, 0}, {736, 896}}";
+			sepNavSelRange = "{561, 0}";
 			sepNavVisRange = "{0, 1518}";
 		};
 	};
@@ -55,22 +55,21 @@
 					PBXFileDataSource_Target_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 262327021;
-			PBXWorkspaceStateSaveDate = 262327021;
+			PBXPerProjectTemplateStateSaveDate = 262328302;
+			PBXWorkspaceStateSaveDate = 262328302;
 		};
 		perUserProjectItems = {
-			C50C33770FA2CB03008917B2 /* PBXTextBookmark */ = C50C33770FA2CB03008917B2 /* PBXTextBookmark */;
 			C50C33790FA2CB03008917B2 /* PBXTextBookmark */ = C50C33790FA2CB03008917B2 /* PBXTextBookmark */;
-			C50C337D0FA2CB13008917B2 /* PBXTextBookmark */ = C50C337D0FA2CB13008917B2 /* PBXTextBookmark */;
 			C50C337F0FA2CB13008917B2 /* PBXTextBookmark */ = C50C337F0FA2CB13008917B2 /* PBXTextBookmark */;
 			C50C33810FA2CB13008917B2 /* PBXTextBookmark */ = C50C33810FA2CB13008917B2 /* PBXTextBookmark */;
-			C50C33820FA2CB13008917B2 /* PBXTextBookmark */ = C50C33820FA2CB13008917B2 /* PBXTextBookmark */;
-			C50C33840FA2CB13008917B2 /* PBXTextBookmark */ = C50C33840FA2CB13008917B2 /* PBXTextBookmark */;
-			C50C33860FA2CB2C008917B2 /* PBXTextBookmark */ = C50C33860FA2CB2C008917B2 /* PBXTextBookmark */;
-			C50C33880FA2CB2C008917B2 /* PBXTextBookmark */ = C50C33880FA2CB2C008917B2 /* PBXTextBookmark */;
 			C50C33890FA2CB2C008917B2 /* PBXTextBookmark */ = C50C33890FA2CB2C008917B2 /* PBXTextBookmark */;
-			C50C338A0FA2CB2C008917B2 /* PBXTextBookmark */ = C50C338A0FA2CB2C008917B2 /* PBXTextBookmark */;
-			C50C33AA0FA2CBA5008917B2 /* PBXTextBookmark */ = C50C33AA0FA2CBA5008917B2 /* PBXTextBookmark */;
+			C5A260C60FA2D3420071AA60 /* PBXTextBookmark */ = C5A260C60FA2D3420071AA60 /* PBXTextBookmark */;
+			C5A260C70FA2D3420071AA60 /* PBXTextBookmark */ = C5A260C70FA2D3420071AA60 /* PBXTextBookmark */;
+			C5A260C80FA2D3420071AA60 /* PBXTextBookmark */ = C5A260C80FA2D3420071AA60 /* PBXTextBookmark */;
+			C5A260C90FA2D3420071AA60 /* PBXTextBookmark */ = C5A260C90FA2D3420071AA60 /* PBXTextBookmark */;
+			C5A260CA0FA2D3420071AA60 /* PBXTextBookmark */ = C5A260CA0FA2D3420071AA60 /* PBXTextBookmark */;
+			C5A260CB0FA2D3420071AA60 /* PBXTextBookmark */ = C5A260CB0FA2D3420071AA60 /* PBXTextBookmark */;
+			C5A260CC0FA2D3420071AA60 /* PBXTextBookmark */ = C5A260CC0FA2D3420071AA60 /* PBXTextBookmark */;
 		};
 		sourceControlManager = C5C9D79B0FA2CAD0006E3E16 /* Source Control */;
 		userBuildSettings = {
@@ -78,20 +77,10 @@
 	};
 	C50C33740FA2CAF8008917B2 /* XMLReader.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {519, 392}}";
+			sepNavIntBoundsRect = "{{0, 0}, {736, 783}}";
 			sepNavSelRange = "{0, 0}";
-			sepNavVisRange = "{0, 352}";
+			sepNavVisRange = "{0, 478}";
 		};
-	};
-	C50C33770FA2CB03008917B2 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = C50C33740FA2CAF8008917B2 /* XMLReader.h */;
-		name = "XMLReader.h: 1";
-		rLen = 0;
-		rLoc = 0;
-		rType = 0;
-		vrLen = 352;
-		vrLoc = 0;
 	};
 	C50C33790FA2CB03008917B2 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
@@ -102,22 +91,6 @@
 		rType = 0;
 		vrLen = 352;
 		vrLoc = 0;
-	};
-	C50C337D0FA2CB13008917B2 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = C50C337E0FA2CB13008917B2 /* XML_NSMLParserAppDelegate.h */;
-		name = "XML_NSMLParserAppDelegate.h: 12";
-		rLen = 157;
-		rLoc = 263;
-		rType = 0;
-		vrLen = 427;
-		vrLoc = 0;
-	};
-	C50C337E0FA2CB13008917B2 /* XML_NSMLParserAppDelegate.h */ = {
-		isa = PBXFileReference;
-		name = XML_NSMLParserAppDelegate.h;
-		path = "/Users/nishiokatakuto/Desktop/iphone-samples/Parser/XML_NSMLParser/Classes/XML_NSMLParserAppDelegate.h";
-		sourceTree = "<absolute>";
 	};
 	C50C337F0FA2CB13008917B2 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
@@ -139,58 +112,6 @@
 		vrLen = 356;
 		vrLoc = 0;
 	};
-	C50C33820FA2CB13008917B2 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = C50C33830FA2CB13008917B2 /* XML_NSMLParserAppDelegate.h */;
-		name = "XML_NSMLParserAppDelegate.h: 12";
-		rLen = 157;
-		rLoc = 263;
-		rType = 0;
-		vrLen = 427;
-		vrLoc = 0;
-	};
-	C50C33830FA2CB13008917B2 /* XML_NSMLParserAppDelegate.h */ = {
-		isa = PBXFileReference;
-		name = XML_NSMLParserAppDelegate.h;
-		path = "/Users/nishiokatakuto/Desktop/iphone-samples/Parser/XML_NSMLParser/Classes/XML_NSMLParserAppDelegate.h";
-		sourceTree = "<absolute>";
-	};
-	C50C33840FA2CB13008917B2 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 1D3623240D0F684500981E51 /* NSXMLParserTestAppDelegate.h */;
-		name = "NSXMLParserTestAppDelegate.h: 18";
-		rLen = 0;
-		rLoc = 424;
-		rType = 0;
-		vrLen = 431;
-		vrLoc = 0;
-	};
-	C50C33860FA2CB2C008917B2 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = C50C33870FA2CB2C008917B2 /* XML_NSMLParserAppDelegate.m */;
-		name = "XML_NSMLParserAppDelegate.m: 12";
-		rLen = 0;
-		rLoc = 233;
-		rType = 0;
-		vrLen = 1322;
-		vrLoc = 0;
-	};
-	C50C33870FA2CB2C008917B2 /* XML_NSMLParserAppDelegate.m */ = {
-		isa = PBXFileReference;
-		name = XML_NSMLParserAppDelegate.m;
-		path = "/Users/nishiokatakuto/Desktop/iphone-samples/Parser/XML_NSMLParser/Classes/XML_NSMLParserAppDelegate.m";
-		sourceTree = "<absolute>";
-	};
-	C50C33880FA2CB2C008917B2 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 1D3623250D0F684500981E51 /* NSXMLParserTestAppDelegate.m */;
-		name = "NSXMLParserTestAppDelegate.m: 1";
-		rLen = 0;
-		rLoc = 0;
-		rType = 0;
-		vrLen = 518;
-		vrLoc = 0;
-	};
 	C50C33890FA2CB2C008917B2 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = 1D3623250D0F684500981E51 /* NSXMLParserTestAppDelegate.m */;
@@ -201,30 +122,74 @@
 		vrLen = 518;
 		vrLoc = 0;
 	};
-	C50C338A0FA2CB2C008917B2 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = C50C338B0FA2CB2C008917B2 /* XML_NSMLParserAppDelegate.m */;
-		name = "XML_NSMLParserAppDelegate.m: 12";
-		rLen = 0;
-		rLoc = 233;
-		rType = 0;
-		vrLen = 1322;
-		vrLoc = 0;
-	};
-	C50C338B0FA2CB2C008917B2 /* XML_NSMLParserAppDelegate.m */ = {
-		isa = PBXFileReference;
-		name = XML_NSMLParserAppDelegate.m;
-		path = "/Users/nishiokatakuto/Desktop/iphone-samples/Parser/XML_NSMLParser/Classes/XML_NSMLParserAppDelegate.m";
-		sourceTree = "<absolute>";
-	};
-	C50C33AA0FA2CBA5008917B2 /* PBXTextBookmark */ = {
+	C5A260C60FA2D3420071AA60 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = 1D3623250D0F684500981E51 /* NSXMLParserTestAppDelegate.m */;
-		name = "NSXMLParserTestAppDelegate.m: 16";
+		name = "NSXMLParserTestAppDelegate.m: 19";
 		rLen = 0;
-		rLoc = 333;
+		rLoc = 561;
 		rType = 0;
 		vrLen = 1518;
+		vrLoc = 0;
+	};
+	C5A260C70FA2D3420071AA60 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C50C33740FA2CAF8008917B2 /* XMLReader.h */;
+		name = "XMLReader.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 478;
+		vrLoc = 0;
+	};
+	C5A260C80FA2D3420071AA60 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* NSXMLParserTestAppDelegate.m */;
+		name = "NSXMLParserTestAppDelegate.m: 19";
+		rLen = 0;
+		rLoc = 561;
+		rType = 0;
+		vrLen = 1518;
+		vrLoc = 0;
+	};
+	C5A260C90FA2D3420071AA60 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C50C33740FA2CAF8008917B2 /* XMLReader.h */;
+		name = "XMLReader.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 478;
+		vrLoc = 0;
+	};
+	C5A260CA0FA2D3420071AA60 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* NSXMLParserTestAppDelegate.m */;
+		name = "NSXMLParserTestAppDelegate.m: 19";
+		rLen = 0;
+		rLoc = 561;
+		rType = 0;
+		vrLen = 1518;
+		vrLoc = 0;
+	};
+	C5A260CB0FA2D3420071AA60 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C50C33740FA2CAF8008917B2 /* XMLReader.h */;
+		name = "XMLReader.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 478;
+		vrLoc = 0;
+	};
+	C5A260CC0FA2D3420071AA60 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* NSXMLParserTestAppDelegate.h */;
+		name = "NSXMLParserTestAppDelegate.h: 18";
+		rLen = 0;
+		rLoc = 424;
+		rType = 0;
+		vrLen = 431;
 		vrLoc = 0;
 	};
 	C5C9D78F0FA2CAC4006E3E16 /* NSXMLParserTest */ = {

@@ -23,6 +23,7 @@
 	29B97313FDCFA39411CA2CEA /* Project object */ = {
 		activeBuildConfigurationName = Debug;
 		activeExecutable = C56956D60F997FCD009C06D0 /* SimpleTableView */;
+		activeSDKPreference = iphonesimulator2.2.1;
 		activeTarget = 1D6058900D05DD3D006BFB54 /* SimpleTableView */;
 		addToTargets = (
 			1D6058900D05DD3D006BFB54 /* SimpleTableView */,
@@ -54,23 +55,19 @@
 					PBXFileDataSource_Target_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 261719564;
-			PBXWorkspaceStateSaveDate = 261719564;
+			PBXPerProjectTemplateStateSaveDate = 262334131;
+			PBXWorkspaceStateSaveDate = 262334131;
 		};
 		perUserProjectItems = {
 			C56956DB0F997FE6009C06D0 /* PBXTextBookmark */ = C56956DB0F997FE6009C06D0 /* PBXTextBookmark */;
-			C56956EB0F9983BC009C06D0 /* PBXTextBookmark */ = C56956EB0F9983BC009C06D0 /* PBXTextBookmark */;
 			C56956ED0F9983BC009C06D0 /* PBXTextBookmark */ = C56956ED0F9983BC009C06D0 /* PBXTextBookmark */;
 			C56956EE0F9983BC009C06D0 /* PBXTextBookmark */ = C56956EE0F9983BC009C06D0 /* PBXTextBookmark */;
 			C56956F10F9983BC009C06D0 /* PBXTextBookmark */ = C56956F10F9983BC009C06D0 /* PBXTextBookmark */;
 			C56957100F998617009C06D0 /* PBXTextBookmark */ = C56957100F998617009C06D0 /* PBXTextBookmark */;
-			C56957110F998617009C06D0 /* PBXTextBookmark */ = C56957110F998617009C06D0 /* PBXTextBookmark */;
-			C56957120F998617009C06D0 /* PBXTextBookmark */ = C56957120F998617009C06D0 /* PBXTextBookmark */;
 			C569571A0F998650009C06D0 /* PBXTextBookmark */ = C569571A0F998650009C06D0 /* PBXTextBookmark */;
 			C569571B0F998650009C06D0 /* PBXTextBookmark */ = C569571B0F998650009C06D0 /* PBXTextBookmark */;
-			C569571C0F998650009C06D0 /* PBXTextBookmark */ = C569571C0F998650009C06D0 /* PBXTextBookmark */;
-			C569571D0F998650009C06D0 /* PBXTextBookmark */ = C569571D0F998650009C06D0 /* PBXTextBookmark */;
 			C569571E0F998650009C06D0 /* PBXTextBookmark */ = C569571E0F998650009C06D0 /* PBXTextBookmark */;
+			C5E20FD80FA2E6D100CE92C5 /* PBXTextBookmark */ = C5E20FD80FA2E6D100CE92C5 /* PBXTextBookmark */;
 		};
 		sourceControlManager = C56956E00F997FE6009C06D0 /* Source Control */;
 		userBuildSettings = {
@@ -135,16 +132,6 @@
 			sepNavVisRange = "{0, 1559}";
 		};
 	};
-	C56956EB0F9983BC009C06D0 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 1D3623250D0F684500981E51 /* SimpleTableViewAppDelegate.m */;
-		name = "SimpleTableViewAppDelegate.m: 21";
-		rLen = 0;
-		rLoc = 476;
-		rType = 0;
-		vrLen = 648;
-		vrLoc = 0;
-	};
 	C56956ED0F9983BC009C06D0 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = 1D3623250D0F684500981E51 /* SimpleTableViewAppDelegate.m */;
@@ -185,26 +172,6 @@
 		vrLen = 351;
 		vrLoc = 0;
 	};
-	C56957110F998617009C06D0 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 1D3623240D0F684500981E51 /* SimpleTableViewAppDelegate.h */;
-		name = "SimpleTableViewAppDelegate.h: 1";
-		rLen = 0;
-		rLoc = 0;
-		rType = 0;
-		vrLen = 356;
-		vrLoc = 0;
-	};
-	C56957120F998617009C06D0 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = C56956E30F99803F009C06D0 /* MyViewCtrl.h */;
-		name = "MyViewCtrl.h: 18";
-		rLen = 0;
-		rLoc = 344;
-		rType = 0;
-		vrLen = 351;
-		vrLoc = 0;
-	};
 	C569571A0F998650009C06D0 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = C56956E40F99803F009C06D0 /* MyViewCtrl.m */;
@@ -225,27 +192,17 @@
 		vrLen = 356;
 		vrLoc = 0;
 	};
-	C569571C0F998650009C06D0 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = C56956E40F99803F009C06D0 /* MyViewCtrl.m */;
-		name = "MyViewCtrl.m: 30";
-		rLen = 0;
-		rLoc = 728;
-		rType = 0;
-		vrLen = 1559;
-		vrLoc = 0;
-	};
-	C569571D0F998650009C06D0 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 1D3623240D0F684500981E51 /* SimpleTableViewAppDelegate.h */;
-		name = "SimpleTableViewAppDelegate.h: 1";
-		rLen = 0;
-		rLoc = 0;
-		rType = 0;
-		vrLen = 356;
-		vrLoc = 0;
-	};
 	C569571E0F998650009C06D0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* SimpleTableViewAppDelegate.m */;
+		name = "SimpleTableViewAppDelegate.m: 13";
+		rLen = 0;
+		rLoc = 273;
+		rType = 0;
+		vrLen = 648;
+		vrLoc = 0;
+	};
+	C5E20FD80FA2E6D100CE92C5 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = 1D3623250D0F684500981E51 /* SimpleTableViewAppDelegate.m */;
 		name = "SimpleTableViewAppDelegate.m: 13";

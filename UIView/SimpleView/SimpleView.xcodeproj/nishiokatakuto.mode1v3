@@ -326,13 +326,13 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>C56956CB0F997D7A009C06D0</string>
+										<string>C5E210360FA2E73100CE92C5</string>
 										<key>history</key>
 										<array>
 											<string>C569569E0F997CF3009C06D0</string>
 											<string>C569569F0F997CF3009C06D0</string>
 											<string>C56956A00F997CF3009C06D0</string>
-											<string>C56956B40F997CF3009C06D0</string>
+											<string>C56956CB0F997D7A009C06D0</string>
 										</array>
 										<key>prevStack</key>
 										<array>
@@ -366,7 +366,7 @@
 								<key>PBXProjectModuleGUID</key>
 								<string>1CE0B20506471E060097A5F4</string>
 								<key>PBXProjectModuleLabel</key>
-								<string>詳細</string>
+								<string>Detail</string>
 							</dict>
 							<key>GeometryConfiguration</key>
 							<dict>
@@ -397,9 +397,9 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>C56956C80F997D1C009C06D0</string>
+				<string>C5E2102C0FA2E72C00CE92C5</string>
 				<string>1CE0B1FE06471DED0097A5F4</string>
-				<string>C56956C90F997D1C009C06D0</string>
+				<string>C5E2102D0FA2E72C00CE92C5</string>
 				<string>1CE0B20306471E060097A5F4</string>
 				<string>1CE0B20506471E060097A5F4</string>
 			</array>
@@ -582,7 +582,7 @@
 								<key>PBXProjectModuleGUID</key>
 								<string>XCMainBuildResultsModuleGUID</string>
 								<key>PBXProjectModuleLabel</key>
-								<string>ビルド</string>
+								<string>Build</string>
 								<key>XCBuildResultsTrigger_Collapse</key>
 								<integer>1021</integer>
 								<key>XCBuildResultsTrigger_Open</key>
@@ -616,7 +616,7 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>C56956B80F997CF3009C06D0</string>
-				<string>C56956CA0F997D1C009C06D0</string>
+				<string>C5E2102E0FA2E72C00CE92C5</string>
 				<string>1CD0528F0623707200166675</string>
 				<string>XCMainBuildResultsModuleGUID</string>
 			</array>
@@ -658,8 +658,8 @@
 										<string>yes</string>
 										<key>sizes</key>
 										<array>
-											<string>{{0, 0}, {316, 194}}</string>
-											<string>{{316, 0}, {378, 194}}</string>
+											<string>{{0, 0}, {316, 198}}</string>
+											<string>{{316, 0}, {378, 198}}</string>
 										</array>
 									</dict>
 									<key>VerticalSplitView</key>
@@ -674,8 +674,8 @@
 										<string>yes</string>
 										<key>sizes</key>
 										<array>
-											<string>{{0, 0}, {694, 194}}</string>
-											<string>{{0, 194}, {694, 187}}</string>
+											<string>{{0, 0}, {694, 198}}</string>
+											<string>{{0, 198}, {694, 183}}</string>
 										</array>
 									</dict>
 								</dict>
@@ -708,7 +708,7 @@
 										<real>148</real>
 									</array>
 									<key>Frame</key>
-									<string>{{316, 0}, {378, 194}}</string>
+									<string>{{316, 0}, {378, 198}}</string>
 									<key>RubberWindowFrame</key>
 									<string>746 566 694 422 0 0 1680 1028 </string>
 								</dict>
@@ -736,13 +736,13 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>1CD10A99069EF8BA00B06720</string>
-				<string>C56956CC0F997D7A009C06D0</string>
+				<string>C5E2102F0FA2E72C00CE92C5</string>
 				<string>1C162984064C10D400B95A72</string>
-				<string>C56956CD0F997D7A009C06D0</string>
-				<string>C56956CE0F997D7A009C06D0</string>
-				<string>C56956CF0F997D7A009C06D0</string>
-				<string>C56956D00F997D7A009C06D0</string>
-				<string>C56956D10F997D7A009C06D0</string>
+				<string>C5E210300FA2E72C00CE92C5</string>
+				<string>C5E210310FA2E72C00CE92C5</string>
+				<string>C5E210320FA2E72C00CE92C5</string>
+				<string>C5E210330FA2E72C00CE92C5</string>
+				<string>C5E210340FA2E72C00CE92C5</string>
 			</array>
 			<key>ToolbarConfiguration</key>
 			<string>xcode.toolbar.config.debugV3</string>
@@ -904,7 +904,7 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>1C78EAAD065D492600B07095</string>
-				<string>C56956D20F997D7A009C06D0</string>
+				<string>C5E210350FA2E72C00CE92C5</string>
 				<string>1C78EAAC065D492600B07095</string>
 			</array>
 			<key>ToolbarConfiguration</key>

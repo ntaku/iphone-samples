@@ -23,7 +23,7 @@
 	29B97313FDCFA39411CA2CEA /* Project object */ = {
 		activeBuildConfigurationName = Debug;
 		activeExecutable = C569568D0F997A49009C06D0 /* SimpleView */;
-		activeSDKPreference = iphonesimulator3.0;
+		activeSDKPreference = iphonesimulator2.2.1;
 		activeTarget = 1D6058900D05DD3D006BFB54 /* SimpleView */;
 		addToTargets = (
 			1D6058900D05DD3D006BFB54 /* SimpleView */,
@@ -77,8 +77,8 @@
 					PBXFileDataSource_Warnings_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 261717266;
-			PBXWorkspaceStateSaveDate = 261717266;
+			PBXPerProjectTemplateStateSaveDate = 262334243;
+			PBXWorkspaceStateSaveDate = 262334243;
 		};
 		perUserProjectItems = {
 			C569569E0F997CF3009C06D0 /* PBXTextBookmark */ = C569569E0F997CF3009C06D0 /* PBXTextBookmark */;
@@ -88,8 +88,8 @@
 			C56956A30F997CF3009C06D0 /* PBXTextBookmark */ = C56956A30F997CF3009C06D0 /* PBXTextBookmark */;
 			C56956A50F997CF3009C06D0 /* PBXTextBookmark */ = C56956A50F997CF3009C06D0 /* PBXTextBookmark */;
 			C56956A80F997CF3009C06D0 /* PBXTextBookmark */ = C56956A80F997CF3009C06D0 /* PBXTextBookmark */;
-			C56956B40F997CF3009C06D0 /* PBXTextBookmark */ = C56956B40F997CF3009C06D0 /* PBXTextBookmark */;
 			C56956CB0F997D7A009C06D0 /* PBXTextBookmark */ = C56956CB0F997D7A009C06D0 /* PBXTextBookmark */;
+			C5E210360FA2E73100CE92C5 /* PBXTextBookmark */ = C5E210360FA2E73100CE92C5 /* PBXTextBookmark */;
 		};
 		sourceControlManager = C56956960F997A68009C06D0 /* Source Control */;
 		userBuildSettings = {
@@ -214,7 +214,7 @@
 		vrLen = 479;
 		vrLoc = 0;
 	};
-	C56956B40F997CF3009C06D0 /* PBXTextBookmark */ = {
+	C56956CB0F997D7A009C06D0 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = C569569A0F997A8E009C06D0 /* MyView.m */;
 		name = "MyView.m: 19";
@@ -224,7 +224,7 @@
 		vrLen = 479;
 		vrLoc = 0;
 	};
-	C56956CB0F997D7A009C06D0 /* PBXTextBookmark */ = {
+	C5E210360FA2E73100CE92C5 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = C569569A0F997A8E009C06D0 /* MyView.m */;
 		name = "MyView.m: 19";

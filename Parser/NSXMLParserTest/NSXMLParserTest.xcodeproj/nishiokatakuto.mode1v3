@@ -271,6 +271,8 @@
 							<key>PBXSmartGroupTreeModuleOutlineStateSelectionKey</key>
 							<array>
 								<array>
+									<integer>2</integer>
+									<integer>1</integer>
 									<integer>0</integer>
 								</array>
 							</array>
@@ -294,7 +296,7 @@
 							<real>186</real>
 						</array>
 						<key>RubberWindowFrame</key>
-						<string>275 139 1005 861 0 0 1680 1028 </string>
+						<string>563 121 1005 861 0 0 1680 1028 </string>
 					</dict>
 					<key>Module</key>
 					<string>PBXSmartGroupTreeModule</string>
@@ -312,7 +314,7 @@
 								<key>PBXProjectModuleGUID</key>
 								<string>1CE0B20306471E060097A5F4</string>
 								<key>PBXProjectModuleLabel</key>
-								<string>NSXMLParserTestAppDelegate.m</string>
+								<string>NSXMLParserTestAppDelegate.h</string>
 								<key>PBXSplitModuleInNavigatorKey</key>
 								<dict>
 									<key>Split0</key>
@@ -320,27 +322,26 @@
 										<key>PBXProjectModuleGUID</key>
 										<string>1CE0B20406471E060097A5F4</string>
 										<key>PBXProjectModuleLabel</key>
-										<string>NSXMLParserTestAppDelegate.m</string>
+										<string>NSXMLParserTestAppDelegate.h</string>
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>C50C33AA0FA2CBA5008917B2</string>
+										<string>C5A260CC0FA2D3420071AA60</string>
 										<key>history</key>
 										<array>
-											<string>C50C33770FA2CB03008917B2</string>
-											<string>C50C337D0FA2CB13008917B2</string>
+											<string>C5A260C60FA2D3420071AA60</string>
+											<string>C5A260C70FA2D3420071AA60</string>
 											<string>C50C337F0FA2CB13008917B2</string>
-											<string>C50C33860FA2CB2C008917B2</string>
-											<string>C50C33880FA2CB2C008917B2</string>
 										</array>
 										<key>prevStack</key>
 										<array>
 											<string>C50C33790FA2CB03008917B2</string>
 											<string>C50C33810FA2CB13008917B2</string>
-											<string>C50C33820FA2CB13008917B2</string>
-											<string>C50C33840FA2CB13008917B2</string>
 											<string>C50C33890FA2CB2C008917B2</string>
-											<string>C50C338A0FA2CB2C008917B2</string>
+											<string>C5A260C80FA2D3420071AA60</string>
+											<string>C5A260C90FA2D3420071AA60</string>
+											<string>C5A260CA0FA2D3420071AA60</string>
+											<string>C5A260CB0FA2D3420071AA60</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -354,7 +355,7 @@
 								<key>Frame</key>
 								<string>{{0, 0}, {797, 815}}</string>
 								<key>RubberWindowFrame</key>
-								<string>275 139 1005 861 0 0 1680 1028 </string>
+								<string>563 121 1005 861 0 0 1680 1028 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
@@ -374,7 +375,7 @@
 								<key>Frame</key>
 								<string>{{0, 820}, {797, 0}}</string>
 								<key>RubberWindowFrame</key>
-								<string>275 139 1005 861 0 0 1680 1028 </string>
+								<string>563 121 1005 861 0 0 1680 1028 </string>
 							</dict>
 							<key>Module</key>
 							<string>XCDetailModule</string>
@@ -398,9 +399,9 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>C50C337B0FA2CB03008917B2</string>
+				<string>C5A260CD0FA2D3420071AA60</string>
 				<string>1CE0B1FE06471DED0097A5F4</string>
-				<string>C50C337C0FA2CB03008917B2</string>
+				<string>C5A260CE0FA2D3420071AA60</string>
 				<string>1CE0B20306471E060097A5F4</string>
 				<string>1CE0B20506471E060097A5F4</string>
 			</array>
@@ -534,15 +535,10 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
-		<string>C50C33A20FA2CB92008917B2</string>
-		<string>C50C33A30FA2CB92008917B2</string>
-		<string>1CD10A99069EF8BA00B06720</string>
-		<string>C50C338F0FA2CB41008917B2</string>
-		<string>1C78EAAD065D492600B07095</string>
-		<string>/Users/nishiokatakuto/Desktop/NSXMLParserTest/NSXMLParserTest.xcodeproj</string>
+		<string>/Users/nishiokatakuto/Desktop/iphone-samples/Parser/NSXMLParserTest/NSXMLParserTest.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
-	<string>275 139 1005 861 0 0 1680 1028 </string>
+	<string>563 121 1005 861 0 0 1680 1028 </string>
 	<key>WindowToolsV3</key>
 	<array>
 		<dict>

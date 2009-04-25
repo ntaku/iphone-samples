@@ -229,8 +229,6 @@
 			<key>Layout</key>
 			<array>
 				<dict>
-					<key>BecomeActive</key>
-					<true/>
 					<key>ContentConfiguration</key>
 					<dict>
 						<key>PBXBottomSmartGroupGIDs</key>
@@ -274,7 +272,7 @@
 							<key>PBXSmartGroupTreeModuleOutlineStateSelectionKey</key>
 							<array>
 								<array>
-									<integer>2</integer>
+									<integer>7</integer>
 									<integer>1</integer>
 									<integer>0</integer>
 								</array>
@@ -310,12 +308,14 @@
 					<key>Dock</key>
 					<array>
 						<dict>
+							<key>BecomeActive</key>
+							<true/>
 							<key>ContentConfiguration</key>
 							<dict>
 								<key>PBXProjectModuleGUID</key>
 								<string>1CE0B20306471E060097A5F4</string>
 								<key>PBXProjectModuleLabel</key>
-								<string>Libxml2TestAppDelegate.h</string>
+								<string>XPathTest.m</string>
 								<key>PBXSplitModuleInNavigatorKey</key>
 								<dict>
 									<key>Split0</key>
@@ -323,19 +323,19 @@
 										<key>PBXProjectModuleGUID</key>
 										<string>1CE0B20406471E060097A5F4</string>
 										<key>PBXProjectModuleLabel</key>
-										<string>Libxml2TestAppDelegate.h</string>
+										<string>XPathTest.m</string>
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>C5A260EF0FA2D69E0071AA60</string>
+										<string>C508595A0FA2DD25008BF88D</string>
 										<key>history</key>
 										<array>
-											<string>C5A260E50FA2D69E0071AA60</string>
 											<string>C5A260E60FA2D69E0071AA60</string>
 											<string>C5A260E70FA2D69E0071AA60</string>
 											<string>C5A260E80FA2D69E0071AA60</string>
 											<string>C5A260E90FA2D69E0071AA60</string>
-											<string>C5A260D00FA2D6630071AA60</string>
+											<string>C50859580FA2DD25008BF88D</string>
+											<string>C5A260E50FA2D69E0071AA60</string>
 										</array>
 										<key>prevStack</key>
 										<array>
@@ -345,67 +345,7 @@
 											<string>C5BB9A400FA2CD2400DFAA45</string>
 											<string>C5BB9A410FA2CD2400DFAA45</string>
 											<string>C5BB9A420FA2CD2400DFAA45</string>
-											<string>C5A260670FA2CEC10071AA60</string>
-											<string>C5A260680FA2CEC10071AA60</string>
-											<string>C5A260770FA2CEEB0071AA60</string>
-											<string>C5A260940FA2D27A0071AA60</string>
-											<string>C5A260950FA2D27A0071AA60</string>
-											<string>C5A260960FA2D27A0071AA60</string>
-											<string>C5A260970FA2D27A0071AA60</string>
-											<string>C5A260980FA2D27A0071AA60</string>
-											<string>C5A260990FA2D27A0071AA60</string>
-											<string>C5A2609A0FA2D27A0071AA60</string>
-											<string>C5A2609B0FA2D27A0071AA60</string>
-											<string>C5A2609C0FA2D27A0071AA60</string>
-											<string>C5A2609D0FA2D27A0071AA60</string>
-											<string>C5A2609E0FA2D27A0071AA60</string>
-											<string>C5A2609F0FA2D27A0071AA60</string>
-											<string>C5A260A00FA2D27A0071AA60</string>
-											<string>C5A260A10FA2D27A0071AA60</string>
-											<string>C5A260A20FA2D27A0071AA60</string>
-											<string>C5A260A30FA2D27A0071AA60</string>
-											<string>C5A260A40FA2D27A0071AA60</string>
-											<string>C5A260A50FA2D27A0071AA60</string>
-											<string>C5A260A60FA2D27A0071AA60</string>
-											<string>C5A260A70FA2D27A0071AA60</string>
-											<string>C5A260A80FA2D27A0071AA60</string>
-											<string>C5A260A90FA2D27A0071AA60</string>
-											<string>C5A260AA0FA2D27A0071AA60</string>
-											<string>C5A260AB0FA2D27A0071AA60</string>
-											<string>C5A260AC0FA2D27A0071AA60</string>
-											<string>C5A260AD0FA2D27A0071AA60</string>
-											<string>C5A260AE0FA2D27A0071AA60</string>
-											<string>C5A260AF0FA2D27A0071AA60</string>
-											<string>C5A260B00FA2D27A0071AA60</string>
-											<string>C5A260B10FA2D27A0071AA60</string>
-											<string>C5A260B20FA2D27A0071AA60</string>
-											<string>C5A260B30FA2D27A0071AA60</string>
-											<string>C5A260B40FA2D27A0071AA60</string>
-											<string>C5A260B50FA2D27A0071AA60</string>
-											<string>C5A260B60FA2D27A0071AA60</string>
-											<string>C5A260C10FA2D3210071AA60</string>
-											<string>C5A260C20FA2D3210071AA60</string>
-											<string>C5A260C30FA2D3210071AA60</string>
-											<string>C5A260C40FA2D3210071AA60</string>
-											<string>C5A260D60FA2D6630071AA60</string>
-											<string>C5A260D70FA2D6630071AA60</string>
-											<string>C5A260D80FA2D6630071AA60</string>
-											<string>C5A260D90FA2D6630071AA60</string>
-											<string>C5A260DA0FA2D6630071AA60</string>
-											<string>C5A260DB0FA2D6630071AA60</string>
-											<string>C5A260DC0FA2D6630071AA60</string>
-											<string>C5A260DD0FA2D6630071AA60</string>
-											<string>C5A260DE0FA2D6630071AA60</string>
-											<string>C5A260DF0FA2D6630071AA60</string>
-											<string>C5A260E00FA2D6630071AA60</string>
-											<string>C5A260E10FA2D6630071AA60</string>
-											<string>C5A260E20FA2D6630071AA60</string>
-											<string>C5A260E30FA2D6630071AA60</string>
-											<string>C5A260EA0FA2D69E0071AA60</string>
-											<string>C5A260EB0FA2D69E0071AA60</string>
-											<string>C5A260EC0FA2D69E0071AA60</string>
-											<string>C5A260ED0FA2D69E0071AA60</string>
-											<string>C5A260EE0FA2D69E0071AA60</string>
+											<string>C50859590FA2DD25008BF88D</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -463,9 +403,9 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>C5A260540FA2CEA30071AA60</string>
+				<string>C508595B0FA2DD25008BF88D</string>
 				<string>1CE0B1FE06471DED0097A5F4</string>
-				<string>C5A260550FA2CEA30071AA60</string>
+				<string>C508595C0FA2DD25008BF88D</string>
 				<string>1CE0B20306471E060097A5F4</string>
 				<string>1CE0B20506471E060097A5F4</string>
 			</array>
@@ -599,11 +539,6 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
-		<string>C5A2607C0FA2CF250071AA60</string>
-		<string>C5A2607D0FA2CF250071AA60</string>
-		<string>1CD10A99069EF8BA00B06720</string>
-		<string>C5BB9A350FA2CD1F00DFAA45</string>
-		<string>1C78EAAD065D492600B07095</string>
 		<string>/Users/nishiokatakuto/Desktop/iphone-samples/Parser/Libxml2Test/Libxml2Test.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
