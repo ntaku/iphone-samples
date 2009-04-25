@@ -1,0 +1,176 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* JsonTestAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {781, 777}}";
+			sepNavSelRange = "{586, 0}";
+			sepNavVisRange = "{0, 586}";
+		};
+	};
+	1D3623250D0F684500981E51 /* JsonTestAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {781, 798}}";
+			sepNavSelRange = "{2, 39}";
+			sepNavVisRange = "{0, 1454}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* JsonTest */ = {
+		activeExec = 0;
+		executables = (
+			C50859250FA2DBD0008BF88D /* JsonTest */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = C50859250FA2DBD0008BF88D /* JsonTest */;
+		activeSDKPreference = iphonesimulator2.2.1;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* JsonTest */;
+		codeSenseManager = C50859320FA2DBD3008BF88D /* Code sense */;
+		executables = (
+			C50859250FA2DBD0008BF88D /* JsonTest */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					603,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					563,
+					60,
+					20,
+					48.16259765625,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 262333836;
+			PBXWorkspaceStateSaveDate = 262333836;
+		};
+		perUserProjectItems = {
+			C50859400FA2DC10008BF88D /* PBXTextBookmark */ = C50859400FA2DC10008BF88D /* PBXTextBookmark */;
+			C50859410FA2DC10008BF88D /* PBXTextBookmark */ = C50859410FA2DC10008BF88D /* PBXTextBookmark */;
+			C50859680FA2E146008BF88D /* PBXTextBookmark */ = C50859680FA2E146008BF88D /* PBXTextBookmark */;
+			C50859960FA2E583008BF88D /* PBXTextBookmark */ = C50859960FA2E583008BF88D /* PBXTextBookmark */;
+			C5E20F5E0FA2E5A400CE92C5 /* PBXTextBookmark */ = C5E20F5E0FA2E5A400CE92C5 /* PBXTextBookmark */;
+		};
+		sourceControlManager = C50859310FA2DBD3008BF88D /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	C50859250FA2DBD0008BF88D /* JsonTest */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = JsonTest;
+		sourceDirectories = (
+		);
+	};
+	C50859310FA2DBD3008BF88D /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	C50859320FA2DBD3008BF88D /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	C50859400FA2DC10008BF88D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* JsonTestAppDelegate.h */;
+		name = "JsonTestAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 335;
+		vrLoc = 0;
+	};
+	C50859410FA2DC10008BF88D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* JsonTestAppDelegate.m */;
+		name = "JsonTestAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 490;
+		vrLoc = 0;
+	};
+	C50859680FA2E146008BF88D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* JsonTestAppDelegate.h */;
+		name = "JsonTestAppDelegate.h: 25";
+		rLen = 0;
+		rLoc = 586;
+		rType = 0;
+		vrLen = 586;
+		vrLoc = 0;
+	};
+	C50859960FA2E583008BF88D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* JsonTestAppDelegate.m */;
+		name = "JsonTestAppDelegate.m: 5";
+		rLen = 0;
+		rLoc = 78;
+		rType = 0;
+		vrLen = 1454;
+		vrLoc = 0;
+	};
+	C5E20F5E0FA2E5A400CE92C5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* JsonTestAppDelegate.m */;
+		name = "JsonTestAppDelegate.m: 1";
+		rLen = 39;
+		rLoc = 2;
+		rType = 0;
+		vrLen = 1454;
+		vrLoc = 0;
+	};
+}
