@@ -1,32 +1,31 @@
-ここにあるコードは自由にご利用ください。
-外部ライブラリを含むものについては、そのライブラリのライセンスに準拠します。
+Sample code list
 
 UIView
-  SimpleView		UIViewを生成して表示する
-  SimpleTouch		タッチイベントを取得する
-  SimpleGesture		スワイプジェスチャーを検出する
+  SimpleView		generate UIView and use it.
+  SimpleTouch		catch touch event.
+  SimpleGesture		detect swipe gesture.
 
 UITableView
-  SimpleTableView	UITableViewを生成して表示する
-  SimpleTableView2	UINavigationControllerを利用したTableView
-  SimpleTableViewCell	UITableViewCellをカスタマイズする
-  TableViewEdit		UITableViewの編集を行う
+  SimpleTableView	generate UITableView and use it.
+  SimpleTableView2	UITableView work with UINavigationController.
+  SimpleTableViewCell	customize UITableViewCell.
+  TableViewEdit		edit function for UITableView.
 
 UITabBarController	
-  NavigationWithTabBar	UINavigationControllerを利用したUITabBarController
-  CustomizeTabBarImg	TabBarの背景画像を差し替える
-  SimpleTabBar		UITabBarControllerを生成して表示する
+  SimpleTabBar		generate UITabBarController and use it.
+  NavigationWithTabBar	UITabBarController work with UINavigationController.
+  CustomizeTabBarImg	use original background img/color.
 
 UIImagePicker
-  SimpleCamera		カメラを利用する		
+  SimpleCamera		Camera sample.		
 
 CoreLocation
-  LocationTest		GPS測位を実施する
+  LocationTest		location sample.
 
 SQLite
-  SQLiteTest		FMDBライブラリを使ってSQLiteを利用する
+  SQLiteTest		SQLite sample by using FMDB library.
 
 Parser
-  JsonTest		JSONを解析する
-  Libxml2Test		libxml2でXPathを使ってXMLを解析する
-  NSXMLParserTest	NSXMLParserを使ってXMLを解析する
+  JsonTest		analyze JSON.
+  Libxml2Test		analyze XML by using XPath.
+  NSXMLParserTest	analyze XML by using NSXMLParser
