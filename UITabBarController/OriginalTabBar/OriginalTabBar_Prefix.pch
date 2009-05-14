@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'OriginalTabBar' target in the 'OriginalTabBar' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+#endif
