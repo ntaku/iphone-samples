@@ -4,6 +4,7 @@ UIView
   SimpleView            generate UIView and use it.
   SimpleTouch           catch touch event.
   SimpleGesture         detect swipe gesture.
+  SimpleTransition      Core Animation Transition sample.
 
 UITableView
   SimpleTableView       generate UITableView and use it.
