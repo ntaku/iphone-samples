@@ -30,3 +30,8 @@ Parser
   JsonTest              analyze JSON.
   Libxml2Test           analyze XML by using XPath.
   NSXMLParserTest       analyze XML by using NSXMLParser
+
+Application
+  FlickrSample		asynchronous loading image sample. (flickr API Key is required)
+
+

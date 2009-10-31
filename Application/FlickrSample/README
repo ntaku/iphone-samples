@@ -1,0 +1,14 @@
+[setting things]
+
+ - Set your Flickr API Key at SearchViewCtrl.m 'viewDidLoad' method.
+ - Set Head Search path for using libxml2.2 library
+   /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/usr/include/libxml2
+
+[reference]
+
+ImageManipulator is created by Björn Sållarp
+http://blog.sallarp.com
+
+XPathQuery is originated by Matt Gallagher
+http://cocoawithlove.com/2008/10/using-libxml2-for-parsing-and-xpath.html
+

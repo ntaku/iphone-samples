@@ -1,0 +1,21 @@
+//
+// Prefix header for all source files of the 'PFrame' target in the 'PFrame' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+#endif
+
+// Add "GCC_PREPROCESSOR_DEFINITIONS = DEBUG" to use this macro
+
+#ifdef DEBUG
+# define LOG(...) NSLog(__VA_ARGS__)
+# define LOG_METHOD NSLog(@"%s", __func__)
+# define LOG_LINE NSLog(@"%s line %d", __FILE__, __LINE__)
+#else
+# define LOG(...) ;
+# define LOG_METHOD ;
+# define LOG_LINE ;
+#endif
+
