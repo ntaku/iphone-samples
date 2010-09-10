@@ -1,37 +1,37 @@
-Sample code list
+These are iPhone sample codes which doesn't use Interface Builder.
 
 UIView
-  SimpleView            generate UIView and use it.
-  SimpleTouch           catch touch event.
-  SimpleGesture         detect swipe gesture.
-  SimpleTransition      Core Animation Transition sample.
+ [SimpleView]            generate UIView
+ [SimpleTouch]           touch event detection
+ [SimpleGesture]         swipe gesture detection
+ [SimpleTransition]      Core Animation transition
 
 UITableView
-  SimpleTableView       generate UITableView and use it.
-  SimpleTableView2      UITableView work with UINavigationController.
-  SimpleTableViewCell   customize UITableViewCell.
-  TableViewEdit         edit function for UITableView.
+ [SimpleTableView]       generate UITableView
+ [SimpleTableView2]      a combination of UITableView and UINavigationController
+ [SimpleTableViewCell]   customize UITableViewCell
+ [TableViewEdit]         edit(delete/move) UITableView
 
-UITabBarController	
-  SimpleTabBar          generate UITabBarController and use it.
-  NavigationWithTabBar  UITabBarController work with UINavigationController.
-  CustomizeTabBarImg    use original background img/color.
+UITabBarController
+ [SimpleTabBar]          generate UITabBarController
+ [NavigationWithTabBar]  a combination of UITabBarController and UINavigationController
+ [CustomizeTabBarImg]    customize UITabBar's background
 
 UIImagePicker
-  SimpleCamera          Camera sample.		
+ [SimpleCamera]          camera sample
 
 CoreLocation
-  LocationTest          location sample.
+ [LocationTest]          location sample
 
 SQLite
-  SQLiteTest            SQLite sample by using FMDB library.
+ [SQLiteTest]            SQLite sample by using FMDB library
 
-Parser
-  JsonTest              analyze JSON.
-  Libxml2Test           analyze XML by using XPath.
-  NSXMLParserTest       analyze XML by using NSXMLParser
+Parsing
+ [JsonTest]              analyze JSON
+ [Libxml2Test]           analyze XML by using XPath
+ [NSXMLParserTest]       analyze XML by using NSXMLParser
 
 Application
-  FlickrSample		asynchronous loading image sample. (flickr API Key is required)
+ [FlickrSample]          asynchronous loading (flickr API Key is required)
 
 
