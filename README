@@ -1,10 +1,10 @@
 These are iPhone sample codes which doesn't use Interface Builder.
 
 UIView
- [SimpleView]            generate UIView
- [SimpleTouch]           touch event detection
- [SimpleGesture]         swipe gesture detection
- [SimpleTransition]      Core Animation transition
+ [View]                  generate UIView
+ [Touch]                 touch event detection
+ [SwipeGesture]          swipe gesture detection
+ [Transition]            Core Animation transition
 
 UITableView
  [SimpleTableView]       generate UITableView

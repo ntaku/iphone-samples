@@ -1,8 +1,0 @@
-//
-// Prefix header for all source files of the 'SimpleTransition' target in the 'SimpleTransition' project
-//
-
-#ifdef __OBJC__
-    #import <Foundation/Foundation.h>
-    #import <UIKit/UIKit.h>
-#endif
