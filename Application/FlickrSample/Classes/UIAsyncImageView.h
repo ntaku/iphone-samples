@@ -16,6 +16,7 @@
 }
 
 -(void)loadImage:(NSString *)url;
+-(void)addCorner;
 -(void)abort;
 
 @end

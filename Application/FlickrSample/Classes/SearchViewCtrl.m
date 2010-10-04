@@ -29,7 +29,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-	NSString *key = @"YOUR API KEY GOES HERE";
+	NSString *key = @"bbc6fd1eaa2f7645c192f7e2843055c4";
 	[self start:[NSString stringWithFormat:@"http://api.flickr.com/services/rest/?method=flickr.photos.getRecent&per_page=200&api_key=%@", key]];
 }
 

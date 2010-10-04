@@ -6,8 +6,8 @@
 //  Copyright 2009 http://d.hatena.ne.jp/ntaku/. All rights reserved.
 //
 
+#import <QuartzCore/QuartzCore.h>
 #import "UIAsyncImageView.h"
-#import "ImageManipulator.h"
 
 @implementation UIAsyncImageView
 
@@ -43,14 +43,8 @@
 	self.contentMode = UIViewContentModeScaleAspectFit;
     self.autoresizingMask = UIViewAutoresizingFlexibleWidth || UIViewAutoresizingFlexibleHeight;		
 
-	// normal image
-//	self.image = [UIImage imageWithData:data];
-
-	// rounded image
-	self.backgroundColor = [UIColor clearColor];
-	UIImage *i = [UIImage imageWithData:data];
-	self.image = [ImageManipulator makeRoundCornerImage:i :8 :8];	
-	[i release];
+	self.image = [UIImage imageWithData:data];
+	[self addCorner];
 	
 	[self abort];
 }
@@ -72,6 +66,29 @@
     [conn release];
     [data release];
     [super dealloc];
+}
+
+- (void)addCorner{	
+
+	CALayer *layer = self.layer;
+	layer.masksToBounds = YES;
+	
+	CGFloat bg_rgba[] = { 1.0, 0.0, 0.0, 0.7 };
+	CGFloat border_rgba[] = { 0.0, 0.0, 0.0, 0.2 };
+	
+	CGColorSpaceRef colorSpace = CGColorSpaceCreateDeviceRGB();
+	CGColorRef bgColor = CGColorCreate(colorSpace, bg_rgba);
+	layer.backgroundColor = bgColor;
+	CGColorRelease(bgColor);
+	
+	CGColorRef borderColor = CGColorCreate(colorSpace, border_rgba);
+	layer.borderColor = borderColor;
+	layer.borderWidth = 1;
+	CGColorRelease(borderColor);
+	
+	CGColorSpaceRelease(colorSpace);
+	
+	layer.cornerRadius = 3;	
 }
 
 @end

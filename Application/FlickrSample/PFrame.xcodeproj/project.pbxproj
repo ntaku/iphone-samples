@@ -13,12 +13,12 @@
 		1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DF5F4DF0D08C38300B7A737 /* UIKit.framework */; };
 		288765FD0DF74451002DB57D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 288765FC0DF74451002DB57D /* CoreGraphics.framework */; };
 		28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 28AD733E0D9D9553002E5188 /* MainWindow.xib */; };
+		2BB91918125A14C2002B2536 /* libxml2.2.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 2BB91917125A14C2002B2536 /* libxml2.2.dylib */; };
+		2BB91980125A17F3002B2536 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2BB9197F125A17F3002B2536 /* QuartzCore.framework */; };
 		C51FCFC41081A8BC00C1A95A /* SearchViewCtrl.m in Sources */ = {isa = PBXBuildFile; fileRef = C51FCFC31081A8BC00C1A95A /* SearchViewCtrl.m */; };
 		C51FD11D1081BAA200C1A95A /* XmlBaseCtrl.m in Sources */ = {isa = PBXBuildFile; fileRef = C51FD11C1081BAA200C1A95A /* XmlBaseCtrl.m */; };
 		C51FD13F1081BB1100C1A95A /* XPathQuery.m in Sources */ = {isa = PBXBuildFile; fileRef = C51FD13E1081BB1100C1A95A /* XPathQuery.m */; };
-		C51FD1431081BC6700C1A95A /* libxml2.2.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = C51FD1421081BC6700C1A95A /* libxml2.2.dylib */; };
 		C5918B95109BFDF2009841F4 /* UIAsyncImageView.m in Sources */ = {isa = PBXBuildFile; fileRef = C5918B94109BFDF2009841F4 /* UIAsyncImageView.m */; };
-		C5918D47109C2161009841F4 /* ImageManipulator.m in Sources */ = {isa = PBXBuildFile; fileRef = C5918D46109C2161009841F4 /* ImageManipulator.m */; };
 		C5918DB6109C23EE009841F4 /* README in Resources */ = {isa = PBXBuildFile; fileRef = C5918DB5109C23EE009841F4 /* README */; };
 /* End PBXBuildFile section */
 
@@ -31,6 +31,8 @@
 		288765FC0DF74451002DB57D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
 		28AD733E0D9D9553002E5188 /* MainWindow.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MainWindow.xib; sourceTree = "<group>"; };
 		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		2BB91917125A14C2002B2536 /* libxml2.2.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libxml2.2.dylib; path = usr/lib/libxml2.2.dylib; sourceTree = SDKROOT; };
+		2BB9197F125A17F3002B2536 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
 		32CA4F630368D1EE00C91783 /* PFrame_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PFrame_Prefix.pch; sourceTree = "<group>"; };
 		8D1107310486CEB800E47090 /* PFrame-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "PFrame-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
 		C51FCFC21081A8BC00C1A95A /* SearchViewCtrl.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SearchViewCtrl.h; sourceTree = "<group>"; };
@@ -39,11 +41,8 @@
 		C51FD11C1081BAA200C1A95A /* XmlBaseCtrl.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XmlBaseCtrl.m; sourceTree = "<group>"; };
 		C51FD13D1081BB1100C1A95A /* XPathQuery.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XPathQuery.h; sourceTree = "<group>"; };
 		C51FD13E1081BB1100C1A95A /* XPathQuery.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XPathQuery.m; sourceTree = "<group>"; };
-		C51FD1421081BC6700C1A95A /* libxml2.2.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libxml2.2.dylib; path = usr/lib/libxml2.2.dylib; sourceTree = SDKROOT; };
 		C5918B93109BFDF2009841F4 /* UIAsyncImageView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UIAsyncImageView.h; sourceTree = "<group>"; };
 		C5918B94109BFDF2009841F4 /* UIAsyncImageView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UIAsyncImageView.m; sourceTree = "<group>"; };
-		C5918D45109C2161009841F4 /* ImageManipulator.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ImageManipulator.h; sourceTree = "<group>"; };
-		C5918D46109C2161009841F4 /* ImageManipulator.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ImageManipulator.m; sourceTree = "<group>"; };
 		C5918DB5109C23EE009841F4 /* README */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -55,7 +54,8 @@
 				1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */,
 				1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */,
 				288765FD0DF74451002DB57D /* CoreGraphics.framework in Frameworks */,
-				C51FD1431081BC6700C1A95A /* libxml2.2.dylib in Frameworks */,
+				2BB91918125A14C2002B2536 /* libxml2.2.dylib in Frameworks */,
+				2BB91980125A17F3002B2536 /* QuartzCore.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -67,6 +67,8 @@
 			children = (
 				1D3623240D0F684500981E51 /* PFrameAppDelegate.h */,
 				1D3623250D0F684500981E51 /* PFrameAppDelegate.m */,
+				C51FD11B1081BAA200C1A95A /* XmlBaseCtrl.h */,
+				C51FD11C1081BAA200C1A95A /* XmlBaseCtrl.m */,
 				C51FCFC21081A8BC00C1A95A /* SearchViewCtrl.h */,
 				C51FCFC31081A8BC00C1A95A /* SearchViewCtrl.m */,
 				C51FD1351081BAF200C1A95A /* lib */,
@@ -116,10 +118,11 @@
 		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				C51FD1421081BC6700C1A95A /* libxml2.2.dylib */,
 				1DF5F4DF0D08C38300B7A737 /* UIKit.framework */,
 				1D30AB110D05D00D00671497 /* Foundation.framework */,
 				288765FC0DF74451002DB57D /* CoreGraphics.framework */,
+				2BB91917125A14C2002B2536 /* libxml2.2.dylib */,
+				2BB9197F125A17F3002B2536 /* QuartzCore.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -129,10 +132,6 @@
 			children = (
 				C5918B93109BFDF2009841F4 /* UIAsyncImageView.h */,
 				C5918B94109BFDF2009841F4 /* UIAsyncImageView.m */,
-				C5918D45109C2161009841F4 /* ImageManipulator.h */,
-				C5918D46109C2161009841F4 /* ImageManipulator.m */,
-				C51FD11B1081BAA200C1A95A /* XmlBaseCtrl.h */,
-				C51FD11C1081BAA200C1A95A /* XmlBaseCtrl.m */,
 				C51FD13D1081BB1100C1A95A /* XPathQuery.h */,
 				C51FD13E1081BB1100C1A95A /* XPathQuery.m */,
 			);
@@ -166,7 +165,14 @@
 			isa = PBXProject;
 			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "PFrame" */;
 			compatibilityVersion = "Xcode 3.1";
+			developmentRegion = English;
 			hasScannedForEncodings = 1;
+			knownRegions = (
+				English,
+				Japanese,
+				French,
+				German,
+			);
 			mainGroup = 29B97314FDCFA39411CA2CEA /* CustomTemplate */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -199,7 +205,6 @@
 				C51FD11D1081BAA200C1A95A /* XmlBaseCtrl.m in Sources */,
 				C51FD13F1081BB1100C1A95A /* XPathQuery.m in Sources */,
 				C5918B95109BFDF2009841F4 /* UIAsyncImageView.m in Sources */,
-				C5918D47109C2161009841F4 /* ImageManipulator.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -241,9 +246,9 @@
 				GCC_PREPROCESSOR_DEFINITIONS = DEBUG;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				HEADER_SEARCH_PATHS = /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/usr/include/libxml2;
+				HEADER_SEARCH_PATHS = "/usr/include/libxml2/**";
 				PREBINDING = NO;
-				SDKROOT = iphonesimulator3.1.2;
+				SDKROOT = iphoneos4.1;
 			};
 			name = Debug;
 		};
@@ -255,8 +260,9 @@
 				GCC_C_LANGUAGE_STANDARD = c99;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
+				HEADER_SEARCH_PATHS = "/usr/include/libxml2/**";
 				PREBINDING = NO;
-				SDKROOT = iphonesimulator3.1.2;
+				SDKROOT = iphoneos4.1;
 			};
 			name = Release;
 		};
